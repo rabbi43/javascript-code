@@ -1,6 +1,7 @@
-<center><h4> Javascript codes are stored in this repositiory</h4></center>
+ <p align="center">Javascript codes are stored in this repositiory🎯</p>
+ 
 
-# Javascript Data Types:
+## Javascript Data Types:
 
 
 ### Array
@@ -17,6 +18,9 @@
 
 
 # Javascript Function:
+### Function:
+- https://github.com/rabbi43/javascript-code/blob/main/function/function.js
+
 
 
 
