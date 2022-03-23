@@ -17,3 +17,20 @@ function addition(x,y){//x&y are the parametter for recevied a value
 var rt = addition(5,5);//create for teceive return value
 document.write(rt);
 ```
+# IFFES:
+```
+//IIFES 
+// immediately call a function
+(function names(msg){
+	document.write(msg);
+})("Hello Geek!");
+
+brk();
+
+// function expression
+var x = function names(msg){
+	document.write(msg);
+};
+
+x("hello!");
+```
