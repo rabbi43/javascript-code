@@ -31,6 +31,7 @@ document.write(friendsNames);
 
 brk();// for break
 
+// method:4 creating array without new Array() function
 var friendsNames2 = [];
 friendsNames2[0] = "sakib";
 friendsNames2[1] = "alamin";
