@@ -21,6 +21,24 @@
 
 🎯 **MouseEvent Object:**
 
+💊 **Special Notes**:
+``` clientX ```
+``` clientY ```
+``` offsetX ```
+``` offsetY ```
+
+|Serial|Object Names|
+|---------|---------|
+|01|click|
+|02|dblclick|
+|03|onmousedown|
+|04|onmouseup|
+|05|onmouseenter|
+|06|onmouseleave|
+|07|onmousemove|
+|08|onmouseover|
+
+
 🎯 **KeyboardEvent Objects:**
 
 🎯 **FocusEvent Objects:**
