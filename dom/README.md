@@ -41,11 +41,44 @@
 
 🎯 **KeyboardEvent Objects:**
 
+|Serial|Object Names|
+|---------|---------|
+|01|keydown|
+|02|keypress|
+|03|keyup|
+|04|Properties:|
+|04|key,keycode,code,repeat,shiftkey,ctlkey|
+
 🎯 **FocusEvent Objects:**
+
+|Serial|Object Names|
+|---------|---------|
+|01|blur|
+|02|focus|
+|03|focusin|
+|04|focusout|
 
 🎯 **ClipboardEvent Objects:**
 
+|Serial|Object Names|
+|---------|---------|
+|01|copy|
+|02|cut|
+|03|paste|
+
 🎯 **DragEvent Objects:**
+
+|Serial|Object Names|
+|---------|---------|
+|01|dragstart|
+|02|dragend|
+|03|drag|
+|04|drop|
+|05|dragover|
+|06|dragenter|
+|01|dragleave|
+
+
 
 
 
