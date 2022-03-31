@@ -3,11 +3,24 @@
 |Serial|Javascript Dom Topic|
 |----------|----------|
 |00|Dom Traversing|
-|01|Query Selector|
-|02|Event Listener|
-|03|Multiple Event Listener|
-|04|Css Styling|
-|05|Css Class/id Adding|
+|01|Dom Manipulation|
+|02|Query Selector|
+|03|Event Listener|
+|04|Multiple Event Listener|
+|05|Css Styling|
+|06|Css Class/id Adding|
+
+🛑 Dom Manipulation:
+
+``Find elements``
+
+``Create elements``
+
+``Add elements.com``
+
+``Remove elements``
+
+``Add styles``
 
 # 💻 Dom Events:
 🎯 **Event Objects:**
